@@ -1,0 +1,19 @@
+.Counter{
+    width:10%;
+    margin:auto;
+    /* border:1px solid black */
+}
+.heading{
+    width:100%;
+    text-align:center
+}
+.buttons{
+    display:block;
+    /* border:1px solid black; */
+    margin:auto
+}
+.buttonsGroup{
+    width:85%;
+    /* border:1px solid black; */
+    margin:auto
+}
