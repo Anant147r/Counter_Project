@@ -1,19 +1,31 @@
+body{
+    background-image:url("../images/image1.jpg");
+    background-size:1400px 700px;
+}
 .Counter{
-    width:10%;
+    width:20%;
     margin:auto;
-    /* border:1px solid black */
+    /* border:1px solid rgb(229, 253, 8); */
+    border-width: 20px;
+    border-radius:20%; 
+    background-color:rgb(97, 11, 86)
 }
 .heading{
     width:100%;
     text-align:center
 }
+button{
+    color:red
+}
 .buttons{
     display:block;
     /* border:1px solid black; */
+    
     margin:auto
 }
 .buttonsGroup{
-    width:85%;
+    width:41%;
     /* border:1px solid black; */
-    margin:auto
+    margin:auto;
+    padding:20px;
 }
